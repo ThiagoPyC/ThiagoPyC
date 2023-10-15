@@ -1,5 +1,5 @@
 ### Olá meu nome é Thiago 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo+ao+meu+perfil+GitHub!!;ThiagoPyC&color=F7F7F7C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bem+Vindo+ao+meu+perfil+GitHub!!;ThiagoPyC)](https://git.io/typing-svg)
 ## Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
