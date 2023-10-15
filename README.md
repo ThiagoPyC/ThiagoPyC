@@ -10,8 +10,6 @@
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-000?style=for-the-badge&logo=scikit-learn)
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ## Github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ThiagoPyC&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
